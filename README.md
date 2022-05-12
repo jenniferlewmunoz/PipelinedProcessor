@@ -1,3 +1,3 @@
 # PipelinedProcessor
-Computer Architecture Final Project
-By Jennifer Lew Munoz
+#### Computer Architecture Final Project
+#### By Jennifer Lew Munoz
